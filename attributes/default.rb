@@ -16,4 +16,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-default['ubuntu-tightvnc']['pkg'] = 'tightvnc'
+default['ubuntu-tightvnc']['pkg'] = 'tightvncserver'
